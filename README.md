@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<a href="https://discord.com/users/696655567015510086">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" />
+</a>
 <!--
 **Xelphesh/Xelphesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
