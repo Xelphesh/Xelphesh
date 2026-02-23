@@ -19,7 +19,7 @@
 ### Contact & Links
 <p align="center">
   <a href="https://discord.com/users/696655567015510086">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" />
   </a>
 </p>
 [![](https://img.shields.io/badge/Email-Contact-gray?style=flat-square&logo=gmail)](mailto:your-email@example.com)
