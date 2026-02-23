@@ -3,9 +3,9 @@
 ---
 
 ### Technical Focus
-* **Audio Engineering:** VST3/AU development, Digital Signal Processing (DSP), and Opus codec optimization.
-* **Networking:** WebRTC implementations, Real-time Protocol (RTP) research, and Discord Gateway hooks.
-* **Low-Level:** Memory management, socket programming, and performance tuning in C/C++.
+* **Audio Engineering:** DSP, VST2.4/3, and Codecs.
+* **Network Connection** WebRTC implementations, Real-time Protocol (RTP) research, and Discord Gateway hooks.
+* **Memory** Memory management, socket programming, and performance tuning in C/C++.
 
 ---
 
