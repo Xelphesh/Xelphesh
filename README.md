@@ -17,7 +17,11 @@
 ---
 
 ### Contact & Links
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=social&logo=discord&logoColor=black)](https://discord.com/users/696655567015510086)
+<p align="center">
+  <a href="https://discord.com/users/696655567015510086">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 [![](https://img.shields.io/badge/Email-Contact-gray?style=flat-square&logo=gmail)](mailto:your-email@example.com)
 [![](https://img.shields.io/badge/Source-Portfolio-black?style=flat-square&logo=github)](https://your-portfolio.com)
 
