@@ -17,7 +17,7 @@
 ---
 
 ### Contact & Links
-[![](https://img.shields.io/badge/Discord-696655567015510086-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/696655567015510086)
+[![](https://img.shields.io/badge/Discord-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/696655567015510086)
 [![](https://img.shields.io/badge/Email-Contact-gray?style=flat-square&logo=gmail)](mailto:your-email@example.com)
 [![](https://img.shields.io/badge/Source-Portfolio-black?style=flat-square&logo=github)](https://your-portfolio.com)
 
