@@ -1,4 +1,4 @@
-# 🔊 [Xelph] | Discord no lifer and a Indie Dev
+# 🔊 [Xelph] | Fellow Discord Guy and a Indie Dev
 
 ---
 
@@ -10,9 +10,9 @@
 ---
 
 ### Key Work
-* **[Project Link]** — Low-latency audio processing via custom WebRTC signaling.
-* **[Project Link]** — VST3 implementation for real-time spectral manipulation.
-* **[Project Link]** — Discord RPC and Gateway integration for headless clients.
+* **[]** — Low-latency audio processing via custom WebRTC signaling.
+* **[]** — VST3 implementation for real-time spectral manipulation.
+* **[]** — Discord RPC and Gateway integration for headless clients.
 
 ---
 
